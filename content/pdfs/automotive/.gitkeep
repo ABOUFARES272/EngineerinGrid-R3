@@ -1,0 +1,7 @@
+# Automotive PDF Resources
+
+This directory will contain PDF files and their metadata for automotive engineering topics.
+
+Structure:
+- topic-slug-guide.pdf (the actual PDF file)
+- topic-slug-guide.json (metadata file)

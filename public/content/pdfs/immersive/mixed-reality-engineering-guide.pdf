@@ -1,0 +1,187 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 3500
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Mixed Reality for Engineers) Tj
+0 -30 Td
+/F2 18 Tf
+(Complete Technical Guide) Tj
+0 -50 Td
+/F1 14 Tf
+(EngineeringGrid Comprehensive Resource) Tj
+0 -20 Td
+/F2 12 Tf
+(14 Pages | 3.3 MB | Advanced Technical Guide) Tj
+0 -40 Td
+/F3 16 Tf
+(CONTENT COMING SOON) Tj
+0 -30 Td
+/F1 14 Tf
+(Expected Release: May 2025) Tj
+0 -40 Td
+/F1 16 Tf
+(What This Guide Will Include:) Tj
+0 -25 Td
+/F2 12 Tf
+(• Mixed reality hardware platforms) Tj
+0 -15 Td
+(• Engineering workflow integration) Tj
+0 -15 Td
+(• Spatial computing and tracking) Tj
+0 -15 Td
+(• Collaborative design environments) Tj
+0 -15 Td
+(• Industrial applications and use cases) Tj
+0 -15 Td
+(• Development tools and frameworks) Tj
+0 -15 Td
+(• Performance optimization techniques) Tj
+0 -15 Td
+(• Future trends and emerging technologies) Tj
+0 -30 Td
+/F1 14 Tf
+(Hardware Platforms:) Tj
+0 -20 Td
+/F2 12 Tf
+(• Microsoft HoloLens 2 and development) Tj
+0 -15 Td
+(• Magic Leap 2 enterprise applications) Tj
+0 -15 Td
+(• Varjo Aero and XR-3 mixed reality) Tj
+0 -15 Td
+(• Apple Vision Pro spatial computing) Tj
+0 -15 Td
+(• Meta Quest Pro and business applications) Tj
+0 -15 Td
+(• Pico 4 Enterprise and industrial use) Tj
+0 -30 Td
+/F1 14 Tf
+(Engineering Applications:) Tj
+0 -20 Td
+/F2 12 Tf
+(• 3D CAD model visualization and manipulation) Tj
+0 -15 Td
+(• Assembly instruction and training) Tj
+0 -15 Td
+(• Remote assistance and expert guidance) Tj
+0 -15 Td
+(• Quality inspection and measurement) Tj
+0 -15 Td
+(• Maintenance and repair procedures) Tj
+0 -15 Td
+(• Design review and collaboration) Tj
+0 -15 Td
+(• Simulation overlay and data visualization) Tj
+0 -30 Td
+/F1 14 Tf
+(Development Frameworks:) Tj
+0 -20 Td
+/F2 12 Tf
+(• Unity XR Toolkit and MRTK integration) Tj
+0 -15 Td
+(• Unreal Engine VR/AR development) Tj
+0 -15 Td
+(• OpenXR standard implementation) Tj
+0 -15 Td
+(• WebXR for browser-based experiences) Tj
+0 -15 Td
+(• Native platform SDKs and APIs) Tj
+0 -30 Td
+/F1 14 Tf
+(Industry Case Studies:) Tj
+0 -20 Td
+/F2 12 Tf
+(Real-world implementations in automotive,) Tj
+0 -15 Td
+(aerospace, manufacturing, and construction) Tj
+0 -15 Td
+(with ROI analysis and lessons learned.) Tj
+0 -30 Td
+/F1 12 Tf
+(Stay updated on the release by visiting:) Tj
+0 -15 Td
+(https://engineeringgrid.com/immersive/mixed-reality-engineering) Tj
+0 -25 Td
+(© 2025 EngineeringGrid - All rights reserved) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000295 00000 n 
+0000003847 00000 n 
+0000003915 00000 n 
+0000003978 00000 n 
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+4048
+%%EOF

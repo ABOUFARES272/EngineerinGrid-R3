@@ -1,0 +1,165 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 3200
+>>
+stream
+BT
+/F1 24 Tf
+50 750 Td
+(Battery Platforms Comparison) Tj
+0 -30 Td
+/F2 18 Tf
+(Complete Technical Guide) Tj
+0 -50 Td
+/F1 14 Tf
+(EngineeringGrid Comprehensive Resource) Tj
+0 -20 Td
+/F2 12 Tf
+(14 Pages | 3.2 MB | Technical Guide) Tj
+0 -40 Td
+/F3 16 Tf
+(CONTENT COMING SOON) Tj
+0 -30 Td
+/F1 14 Tf
+(Expected Release: March 2025) Tj
+0 -40 Td
+/F1 16 Tf
+(What This Guide Will Include:) Tj
+0 -25 Td
+/F2 12 Tf
+(• Leading EV battery platform analysis) Tj
+0 -15 Td
+(• Technical specifications comparison) Tj
+0 -15 Td
+(• Cost structure and manufacturing) Tj
+0 -15 Td
+(• Performance benchmarking) Tj
+0 -15 Td
+(• Scalability and modularity) Tj
+0 -15 Td
+(• Charging capabilities and infrastructure) Tj
+0 -15 Td
+(• Future roadmap and developments) Tj
+0 -15 Td
+(• Supplier ecosystem analysis) Tj
+0 -30 Td
+/F1 14 Tf
+(Platform Coverage:) Tj
+0 -20 Td
+/F2 12 Tf
+(• Tesla 4680 and structural battery pack) Tj
+0 -15 Td
+(• GM Ultium platform architecture) Tj
+0 -15 Td
+(• Volkswagen MEB and PPE platforms) Tj
+0 -15 Td
+(• Ford Lightning and Mustang Mach-E) Tj
+0 -15 Td
+(• BMW iX and i4 battery systems) Tj
+0 -15 Td
+(• Mercedes EQS and EQE platforms) Tj
+0 -15 Td
+(• Hyundai E-GMP architecture) Tj
+0 -15 Td
+(• Chinese platforms (BYD Blade, CATL Qilin)) Tj
+0 -30 Td
+/F1 14 Tf
+(Technical Comparison:) Tj
+0 -20 Td
+/F2 12 Tf
+(• Energy density (Wh/kg and Wh/L)) Tj
+0 -15 Td
+(• Fast charging capabilities (C-rate)) Tj
+0 -15 Td
+(• Thermal management strategies) Tj
+0 -15 Td
+(• Cell-to-pack vs. cell-to-chassis) Tj
+0 -15 Td
+(• Manufacturing cost per kWh) Tj
+0 -15 Td
+(• Cycle life and warranty terms) Tj
+0 -30 Td
+/F1 12 Tf
+(Stay updated on the release by visiting:) Tj
+0 -15 Td
+(https://engineeringgrid.com/automotive/battery-platforms) Tj
+0 -25 Td
+(© 2025 EngineeringGrid - All rights reserved) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+>>
+endobj
+
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000295 00000 n 
+0000003547 00000 n 
+0000003615 00000 n 
+0000003678 00000 n 
+trailer
+<<
+/Size 8
+/Root 1 0 R
+>>
+startxref
+3748
+%%EOF
