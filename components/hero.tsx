@@ -25,9 +25,9 @@ export function Hero() {
         <div className="flex flex-col items-center text-center max-w-4xl mx-auto">
           <div className="mb-6 flex items-center justify-center">
             <ThemeLogo 
-              width={80} 
-              height={80} 
-              className="rounded-lg shadow-lg transition-transform hover:scale-105" 
+              width={400} 
+              height={40} 
+              className="transition-transform hover:scale-105" 
               priority 
             />
           </div>

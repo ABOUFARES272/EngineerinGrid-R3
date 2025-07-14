@@ -8,8 +8,8 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4">
             <Link href="/" className="flex items-center space-x-2">
-              <ThemeLogo width={40} height={40} className="rounded-lg" />
-              <span className="font-bold text-xl font-heading">EngineeringGrid</span>
+              <ThemeLogo width={150} height={40} className="rounded-lg" />
+              <span className="font-bold text-xl font-heading"></span>
             </Link>
             <p className="text-sm text-muted-foreground max-w-xs">
               Your knowledge hub for engineering innovations across automotive, green energy, and immersive technologies.

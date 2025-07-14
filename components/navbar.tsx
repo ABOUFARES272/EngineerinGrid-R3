@@ -50,13 +50,13 @@ export function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <ThemeLogo 
-                width={32} 
+                width={200} 
                 height={32} 
                 className="rounded-lg transition-transform hover:scale-105" 
                 priority 
               />
               <span className="font-bold text-xl font-heading hidden sm:inline">
-                EngineeringGrid
+         
               </span>
             </Link>
           </div>
